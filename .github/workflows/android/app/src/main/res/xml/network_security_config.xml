@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Enforces HTTPS-only traffic for the app (cleartextTrafficPermitted="false").
+  If you need to test against a local HTTP backend during development,
+  add a debug-only override instead of loosening this file.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>
