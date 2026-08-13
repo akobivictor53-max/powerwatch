@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PowerWatch</string>
+    <string name="welcome_title">Verify your prepaid meter</string>
+    <string name="welcome_subtitle">Check that a meter number is genuine before you buy units.</string>
+    <string name="disco_label">Distribution company (Disco)</string>
+    <string name="meter_number_label">Meter number</string>
+    <string name="meter_number_placeholder">e.g. 04512345678</string>
+    <string name="verify_button">Verify Meter</string>
+    <string name="verifying">Verifying…</string>
+    <string name="result_verified">Meter verified</string>
+    <string name="result_customer_name">Customer name</string>
+    <string name="result_meter_number">Meter number</string>
+    <string name="result_meter_type">Meter type</string>
+    <string name="result_disco">Disco</string>
+    <string name="community_reports_title">Community reports (user-submitted)</string>
+    <string name="community_reports_disclaimer">These reports are submitted by other users, not verified by Sogo or any Disco.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_no_connection">No internet connection.</string>
+    <string name="try_again">Try again</string>
+</resources>

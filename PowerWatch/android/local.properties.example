@@ -1,0 +1,10 @@
+# Copy this to local.properties (Android Studio usually generates the sdk.dir
+# line automatically). local.properties is git-ignored and machine-specific.
+
+sdk.dir=/path/to/your/Android/sdk
+
+# Optional local overrides for values normally in gradle.properties —
+# handy if you don't want your backend URL/app key in gradle.properties
+# at all. Anything set here takes priority.
+# POWERWATCH_BACKEND_BASE_URL=https://your-backend.example.com/
+# POWERWATCH_APP_CLIENT_KEY=REPLACE_WITH_SAME_VALUE_AS_BACKEND_ENV
